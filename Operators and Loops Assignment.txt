@@ -1,0 +1,60 @@
+﻿1.What are the Conditional Operators in Java?
+
+
+Ans- Conditional operators in Java include == (equal to), != (not equal to), < (less than), > (greater than), <= (less than or equal to), and >= (greater than or equal to).
+
+
+2.What are the types of operators based on the number of operands?
+
+
+Ans- Operators can be classified into unary (1 operand), binary (2 operands), and ternary (3 operands) based on the number of operands they take.
+
+
+3.What is the use of Switch case in Java programming?
+
+
+Ans- The switch-case statement in Java is used for multi-branching based on the value of an expression. It allows the execution of one block of statements among many based on the value of the expression.
+
+
+4.What are the priority levels of arithmetic operations in Java?
+
+
+Ans- The priority levels of arithmetic operations in Java follow the order of operations: parentheses, multiplication/division, and addition/subtraction.
+
+
+5.What are the Conditional Statements and types of conditional statements in Java?
+
+
+Ans- Conditional statements in Java include if, if-else, and switch. They are used to control the flow of the program based on certain conditions.
+
+
+6.What is the syntax of the if statement?
+
+
+Ans- The syntax of the if statement in Java is:
+java
+Copy code
+if (condition) {
+    // Code to be executed if the condition is true
+}
+
+
+7.What are the 3 types of iterative statements in Java?
+
+
+Ans- The three types of iterative statements in Java are for, while, and do-while loops.
+
+
+8.Write the difference between for loop and do-while loop?
+
+
+Ans-The primary difference between a for loop and a do-while loop is that a for loop checks the condition before executing the loop, while a do-while loop checks the condition after executing the loop at least once.
+
+
+9.Write a program to print numbers from 1 to 10.
+Ans-
+java
+Copy code
+for (int i = 1; i <= 10; i++) {
+    System.out.println(i);
+}
